@@ -28,4 +28,4 @@ components.
 
 ### ౨ৎ let's connect
 
-[linkedin](https://www.linkedin.com/in/ronghe-chen/) | [email](ronghechen2027@u.northwestern.edu)
+[linkedin](https://www.linkedin.com/in/ronghe-chen/) | email: ronghechen2027@u.northwestern.edu
