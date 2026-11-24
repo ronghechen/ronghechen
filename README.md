@@ -21,10 +21,10 @@ components.
 
 ### ✧ my toolkit
 
-**frontend** — react, next.js, typescript, javascript, tailwind css
-**backend** — python, node.js, express, flask, ruby on rails
-**data & cloud** — postgresql, mysql, prisma, aws, vercel
-**design** — figma, webflow, prototyping, interaction design
+- **frontend** — react, next.js, typescript, javascript, tailwind css
+- **backend** — python, node.js, express, flask, ruby on rails
+- **data & cloud** — postgresql, mysql, prisma, aws, vercel
+- **design** — figma, webflow, prototyping, interaction design
 
 ### ౨ৎ let's connect
 
